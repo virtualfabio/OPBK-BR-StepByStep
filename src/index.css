@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+TextField{
+  margin-top: 15px;
+  padding: 10px;
+}
